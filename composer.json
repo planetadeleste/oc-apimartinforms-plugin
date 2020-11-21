@@ -11,5 +11,13 @@
             "role": "creator"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "PlanetaDelEste\\ApiMartinForms\\": ""
+        }
+    },
+    "require": {
+        "php": ">=7.2",
+        "planetadeleste/oc-apitoolbox-plugin":"^1.0"
+    }
 }
