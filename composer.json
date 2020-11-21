@@ -1,0 +1,15 @@
+{
+    "name": "planetadeleste/oc-apimartinforms-plugin",
+    "description": "Extends Martin.Forms plugin to has api functionality",
+    "type": "october-plugin",
+    "license": "MIT",
+    "keywords": ["october", "forms", "email", "api"],
+    "authors": [
+        {
+            "name": "Alvaro Canepa",
+            "email": "bfpdevel@gmail.com",
+            "role": "creator"
+        }
+    ],
+    "require": {}
+}

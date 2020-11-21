@@ -1,0 +1,12 @@
+plugin:
+    name: 'planetadeleste.apimartinforms::lang.plugin.name'
+    description: 'planetadeleste.apimartinforms::lang.plugin.description'
+    author: PlanetaDelEste
+    icon: icon-smile-o
+    homepage: ''
+navigation:
+permissions:
+    apimartinforms-menu-settings:
+        tab: 'planetadeleste.apimartinforms::lang.tab.permissions'
+        label: 'planetadeleste.apimartinforms::lang.permission.settings'
+        order: 100

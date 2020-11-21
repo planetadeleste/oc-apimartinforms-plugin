@@ -1,0 +1,21 @@
+fields:
+    groups:
+        label: 'martin.forms::lang.settings.tabs.general'
+        type: datatable
+        columns:
+            group:
+                title: 'martin.forms::lang.components.shared.group.title'
+                type: string
+            mail_enabled:
+                title: 'martin.forms::lang.components.shared.mail_enabled.title'
+                type: checkbox
+            mail_recipients:
+                title: 'martin.forms::lang.components.shared.mail_recipients.title'
+                type: string
+            mail_template:
+                title: 'martin.forms::lang.components.shared.mail_template.title'
+                type: string
+            allowed_fields:
+                title: 'martin.forms::lang.components.shared.allowed_fields.title'
+                type: string
+
